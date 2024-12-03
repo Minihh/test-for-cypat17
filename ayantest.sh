@@ -201,5 +201,5 @@ else
 fi
 
 
-echo "System hardening script completed successfully."
+echo "Did you know that the low taper meme is still massive? yeah no MASSIVE."
 
